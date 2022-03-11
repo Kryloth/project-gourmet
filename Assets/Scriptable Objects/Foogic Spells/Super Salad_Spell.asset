@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f58297972ce77c84c9ef0d27d5dbc63b, type: 3}
+  m_Name: Super Salad_Spell
+  m_EditorClassIdentifier: 
+  spellList:
+  - spellType: 1
+    offensiveSpellCreator:
+      offensiveSpellType: 0
+      commitType: 0
+      utilityType: 0
+      damageSequence: 0
+      isStoppable: 0
+      damageAmount: 0
+      damageDuration: 0
+      tickInverval: 0
+      slowAmount: 0
+      slowDuration: 0
+      stunDuration: 0
+    supportSpellCreator:
+      supportSpellType: 0
+      commitType: 0
+      buffType: 0
+      healSequence: 1
+      isStoppable: 0
+      healAmount: 20
+      healDuration: 0
+      tickInterval: 0
+      playerModifiers: []
+      projectileModifiers: []
+  - spellType: 1
+    offensiveSpellCreator:
+      offensiveSpellType: 0
+      commitType: 0
+      utilityType: 0
+      damageSequence: 0
+      isStoppable: 0
+      damageAmount: 0
+      damageDuration: 0
+      tickInverval: 0
+      slowAmount: 0
+      slowDuration: 0
+      stunDuration: 0
+    supportSpellCreator:
+      supportSpellType: 1
+      commitType: 0
+      buffType: 1
+      healSequence: 0
+      isStoppable: 0
+      healAmount: 0
+      healDuration: 0
+      tickInterval: 0
+      playerModifiers:
+      - playerBuff: 2
+        attackSpeed: 0
+        movementSpeed: 0
+        tempArmor: 3
+        buffDuration: 10
+      projectileModifiers: []

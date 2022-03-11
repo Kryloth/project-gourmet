@@ -1,0 +1,53 @@
+Ability List
+
+Wheat + Wheat + wheat 	= Entangeling Spagetti 	(slow every enemy 30%)
+Wheat + Wheat + meat 	= Bomb Burger			(Projectile crowd control + stun)
+Wheat + wheat + Veggie 	= Vegan Sandwich		(attack speed + mini stunt)
+
+Meat + Meat + Meat 	= Fire Steak		(Damage over time)
+Meat + Meat + Wheat 	= Meteor Meatball	(Instant Damage + slow)
+Meat + Meat + Veggie 	= BBQ Skewers		(Line Damage)
+
+Veggie + Veggie + Veggie= Super Salad		(Instant 20% max hp + 3 armor)
+Veggie + Veggie + Meat	= Chiken Soup		(Damage up + instant heal 50hp)
+Veggie + Veggie + Wheat	= Veggie Wrap		(speed up + regen)
+
+Wheat + Meat + Veggie	= Full course Meal	(Heal overtime + damage overtime + slow 5sec) +5hp +2Damage +0.5 armor
+
+========================================================================
+
+Spell Duration - Cooking Time
+
+Entangeling Spagetti : 4s	- 5s (Field)
+Bomb Burger			 : 1s	- 4s (Field)
+Vegan Sandwich		 : 3s	- 4s (Personal)
+
+Fire Steak			 : 4s		- 6s (Field)
+Meteor Meatball		 : 0.5s		- 4s (Field)
+BBQ Skewers			 : Instant	- 3s (Line)
+
+Super Salad			 : Instant	- 5s (Personal)
+Chiken Soup			 : 4s & 8s	- 6s (Personal)
+Veggie Wrap			 : 3s		- 5s (Personal)
+
+Full Course Meal	 : 5s - 10s
+
+========================================================================
+
+Status Ailments, buffs & damage types
+
+
+Instant Damage
+Damage over time
+
+Heal over time
+Instant heal
+
+Slow
+Stun
+
+Increase attack speed
+Base damage Up
+Mov Speed Up
+
+========================================================================
